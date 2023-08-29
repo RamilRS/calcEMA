@@ -9,5 +9,10 @@ project requires the following packages to be installed:
 
 pandas, mplfinance
 
+run main.py
 
-![Example. timeframe=1D, EMA(14) ](https://github.com/RamilRS/calcEMA/master/plot1.jpg)
+Screenshot. timeframe=1D, EMA(14)
+![Screenshot. timeframe=1D, EMA(14) ](https://github.com/RamilRS/calcEMA/raw/master/plot1.jpg)
+
+Screenshot. timeframe=1h, EMA(100)
+![Screenshot. timeframe=1h, EMA(100) ](https://github.com/RamilRS/calcEMA/raw/master/plot1.jpg)
