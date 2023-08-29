@@ -10,3 +10,4 @@ project requires the following packages to be installed:
 pandas, mplfinance
 
 
+![Example. timeframe=1D, EMA(14) ](https://github.com/RamilRS/calcEMA/master/plot1.img)
